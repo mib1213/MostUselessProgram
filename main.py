@@ -1,4 +1,9 @@
-from functions import b10_b2, range_correction, add_b2, b2_b10, sub_b2, filter_input, allowed_range
+from functions import (b10_b2, 
+                       range_correction, 
+                       add_b2, b2_b10, 
+                       sub_b2, 
+                       filter_input, 
+                       allowed_range)
 
 
 def main() -> None:
